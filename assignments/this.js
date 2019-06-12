@@ -59,7 +59,7 @@ const coolStuff = {
     breed: 'Tabby',
     owner: 'my owner',
     favoriteFood: 'Chipotle'
-    
+
 }
 const myHobbies = ['sleeping', 'eating', 'knocking over cups of water']
 
